@@ -12,7 +12,8 @@ function frameIt() {
 }
 
 $(document).ready(function(){
-
+getIt()
+frameIt()
 // call functions here
 
 });
