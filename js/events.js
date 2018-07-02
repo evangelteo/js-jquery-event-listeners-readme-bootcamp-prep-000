@@ -1,11 +1,6 @@
 //define functions here
 
-function getIt() {
-  $('p').on("click", function() {
-    alert("Hey!");
-    return;
-  })
-}
+T
 
 function frameIt() {
   $(".tasty").on('load', function() {})
